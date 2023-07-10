@@ -4,8 +4,8 @@ Data analytics playground based on ARC data
 
 The objectives are:
 
-* Analyse the data and identify some data insights
-* Create PowerBI reports that describes the insight and related aspects such as related variables
+* Analyse the data and identify some data insights (one or two)
+* Create PowerBI reports that describe the insights and related aspects such as related variables
 * Improves style of the PowerBI report by adding creative/innovative design ideas
 
 
